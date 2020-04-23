@@ -39,4 +39,5 @@ CC0 1.0 Universal
 
 ## 謝辞
 [AvalonEdit - Copyright (c) AvalonEdit Contributors](http://avalonedit.net/)
+
 [IniWrapper - Copyright (c) 2018 Piotr Szkudlarski](https://github.com/Szpi/IniWrapper/wiki)
